@@ -4,6 +4,10 @@ Este projeto foi inicializado com: npx create-react-app organo
 
 ## Scripts disponíveis
 
+Ao clonar use o comando:
+
+###  npm install 
+
 No diretório do projeto, você pode executar:
 
 ### `npm start`
