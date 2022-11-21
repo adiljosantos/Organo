@@ -6,7 +6,7 @@ Este projeto foi inicializado com: npx create-react-app organo
 
 Ao clonar use o comando:
 
-###  npm install 
+###  `npm install` 
 
 No diretório do projeto, você pode executar:
 
